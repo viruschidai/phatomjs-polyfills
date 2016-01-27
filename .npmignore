@@ -1,6 +1,7 @@
 .gitignore
 .editorconfig
 .npmignore
+.travis.yaml
 README.md
 test
 karma.conf.js

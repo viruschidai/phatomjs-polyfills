@@ -1,6 +1,6 @@
 PhantomJS polyfills
 =====================
-
+[![Build Status](https://travis-ci.org/viruschidai/phatomjs-polyfills.png?branch=master)](https://travis-ci.org/viruschidai/phatomjs-polyfills)
 PhantomJS is widely used for testing web-based applications. This lib contains polyfills for the following functions that PhantomJS does not support natively:
 
 * Function.prototype.bind

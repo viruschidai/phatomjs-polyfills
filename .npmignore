@@ -1,0 +1,6 @@
+.gitignore
+.editorconfig
+.npmignore
+README.md
+test
+karma.conf.js

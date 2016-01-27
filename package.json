@@ -1,0 +1,45 @@
+{
+  "name": "phantomjs-polyfills",
+  "version": "0.0.1",
+  "description": "PhantomJS polyfills for Function.prototype.bind and Element.prototype.remove",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viruschidai/phatomjs-polyfills.git"
+  },
+  "keywords": [
+    "PhantomJS",
+    "PhantomJS polyfill",
+    "PhantomJS polyfills",
+    "Function.prototype.bind",
+    "Function.prototype.bind polyfill",
+    "Element.prototype.remove",
+    "Element.prototype.remove polyfill"
+  ],
+  "author": "Bill Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viruschidai/phatomjs-polyfills/issues"
+  },
+  "homepage": "https://github.com/viruschidai/phatomjs-polyfills#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.3",
+    "phantomjs": "^1.9.19"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.3",
+    "phantomjs": "^1.9.19"
+  }
+}

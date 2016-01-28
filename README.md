@@ -6,7 +6,7 @@ PhantomJS is widely used for testing web-based applications. This lib contains p
 * Function.prototype.bind
 * Element.prototype.remove
 
-Note: PhantomJS2.x has supported those method natively.
+Note: PhantomJS2.x has supported those method natively. And the PhantomJS team don't recommend PhantomJS 1.x anymore
 
 ## Get started
 

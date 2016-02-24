@@ -1,9 +1,11 @@
 {
   "name": "phantomjs-polyfills",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PhantomJS polyfills for Function.prototype.bind and Element.prototype.remove",
   "main": "index.js",
-  "files": ["polyfills"],
+  "files": [
+    "polyfills"
+  ],
   "scripts": {
     "test": "karma start"
   },

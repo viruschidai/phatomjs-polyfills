@@ -1,2 +1,2 @@
 require('./polyfills/function-bind-polyfill');
-requier('./polyfills/element-remove-polyfill');
+require('./polyfills/element-remove-polyfill');

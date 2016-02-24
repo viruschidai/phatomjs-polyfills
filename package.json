@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-polyfills",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "PhantomJS polyfills for Function.prototype.bind and Element.prototype.remove",
   "main": "index.js",
   "files": [

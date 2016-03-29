@@ -18,7 +18,7 @@ Add the polyfills in your karma.config.js
 ```
 ...
 files: [
-    {pattern: './node_modules/phantomjs-polyfill/polyfills/*.js', included: true},
+    {pattern: './node_modules/phantomjs-polyfills/polyfills/*.js', included: true},
     ...
 ]
 ```
